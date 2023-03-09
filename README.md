@@ -43,11 +43,21 @@
     <td>Frontend developer</td>
   </tr>
     <tr>
+    <td>LLC «Estimate-Service», 2013</td>
+    <td>Pricing and estimated rationing in construction in modern conditions. Automation of estimated calculations</td>
+  </tr>
+      <tr>
+    <td>Russian Academy of National Economy, 2012</td>
+    <td>Innovative project management</td>
+  </tr>
+    <tr>
     <td>Siberian federal university, Krasnoyarsk, Russia</td>
+      <td>2000-2005</td>
     <td>IT in social systems</td>
   </tr>
       <tr>
     <td>Siberian federal university, Krasnoyarsk, Russia</td>
+        <td>2004-2007</td>
     <td>Economics and management at an energy enterprise</td>
   </tr>
     </table>
