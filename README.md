@@ -1,6 +1,5 @@
-<h4>Hello! I'm Andrey Kamensky, frontend developer</h4>
-<b>Currently</b> I am studying frontend in IT-Incubator, Belarus
-
+<h4>Hello! I'm Andrey Kamensky, frontend developer.</h4>
+<p>Currently I am studying frontend in IT-Incubator, Minsk, Belarus.</p>
 <table>
   <tr>
     <th><a href="https://www.linkedin.com/in/andrey-kamensky-987883b2/">LinkedIn</a></th>
@@ -40,15 +39,15 @@
 <h4>Education</h4>
 <table>
   <tr>
-    <td>IT-Incubator</td>
+    <td>IT-Incubator, Minsk, Belarus</td>
     <td>Frontend developer</td>
   </tr>
     <tr>
-    <td>Siberian federal university</td>
+    <td>Siberian federal university, Krasnoyarsk, Russia</td>
     <td>IT in social systems</td>
   </tr>
       <tr>
-    <td>Siberian federal university</td>
+    <td>Siberian federal university, Krasnoyarsk, Russia</td>
     <td>Economics and management at an energy enterprise</td>
   </tr>
     </table>
