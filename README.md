@@ -1,4 +1,5 @@
 <h4>Hello! I'm Andrey Kamensky, frontend developer</h4>
+<b>Currently</b> I am studying frontend in IT-Incubator, Belarus
 
 <table>
   <tr>
@@ -9,26 +10,32 @@
   </table>
 
 <h4>My skills</h4>
-<table>
-  <tr>
-    <th>Javascript</th>
-    <th>Typescript</th>
-    <th>React</th>
-    <th>Redux</th>
-    <th>REST API</th>
-    <th>HTML/CSS</th>
-  </tr>
-  </table>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+
+[![codewars](https://www.codewars.com/users/Kamensky124/badges/small)](https://www.codewars.com/users/Kamensky124) 
 
 <h4>Experience</h4>
-<b>Business analyst</b> <a href="https://www.linkedin.com/in/andrey-kamensky-987883b2/"> Rosneft oil company</a>
-<br>
-Until November 2022, I worked for 6 years. According to the needs of the business, I'm expanding functionality and speed of system based on a sets of excel+vba+sap as much as possible. 
-<br>
-<b>Various positions (construction cost engineering, investment analyst)</b> <a href="https://www.krastsvetmet.ru/">JSC «Krastsvetmet»</a>
-<br>
-I worked for 10 years and articipated in the creation of a project management system, construction documentation database. 
-<br>
+<table>
+  <tr>
+    <td>Business analyst</td>
+    <td><a href="https://www.linkedin.com/in/andrey-kamensky-987883b2/"> Rosneft oil company</a></td>
+    <td>2016-2022</td>
+  </tr>
+    <tr>
+    <td>Various economics positions (construction cost engineering, investment analyst, etc.)</td>
+    <td><a href="https://www.krastsvetmet.ru/">JSC «Krastsvetmet»</a></td>
+      <td>2005-2016</td>
+  </tr>
+    </table>
 
 <h4>Education</h4>
 <table>
@@ -45,6 +52,3 @@ I worked for 10 years and articipated in the creation of a project management sy
     <td>Economics and management at an energy enterprise</td>
   </tr>
     </table>
-
-My trailrunning hobby all year round help to improve productivity. A healthy body makes a healthy spirit :) 
-I have an 8-year-old daughter and love her very much.
