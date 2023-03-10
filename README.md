@@ -1,5 +1,5 @@
 <h4>Hello! I'm Andrey Kamensky, frontend developer.</h4>
-<p>Currently I am studying frontend in IT-Incubator, Minsk, Belarus.</p>
+<p>I'm glad you came to my GitHub. Have a nice day!</p>
 <table>
   <tr>
     <th><a href="https://www.linkedin.com/in/andrey-kamensky-987883b2/">LinkedIn</a></th>
@@ -50,12 +50,12 @@
     <td>2012, Russian Academy of National Economy</td>
     <td>Innovative project management</td>
   </tr>
+        <tr>
+    <td>2004-2007 Siberian federal university, Krasnoyarsk, Russia</td>
+    <td>Economics and management at an energy enterprise</td>
+  </tr>
     <tr>
     <td>2000-2005 Siberian federal university, Krasnoyarsk, Russia</td>
     <td>IT in social systems</td>
-  </tr>
-      <tr>
-    <td>2004-2007 Siberian federal university, Krasnoyarsk, Russia</td>
-    <td>Economics and management at an energy enterprise</td>
   </tr>
     </table>
