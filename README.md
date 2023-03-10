@@ -1,7 +1,8 @@
 <h4>Hello! I'm Andrey Kamensky, frontend developer.</h4>
-<p>I'm glad you came to my GitHub. Have a nice day!</p>
+<p>I'm glad to see you in my GitHub. Have a nice day!</p>
 <table>
   <tr>
+    <th><a href="https://kamensky124.github.io/AkCV/">CV</a></th>
     <th><a href="https://www.linkedin.com/in/andrey-kamensky-987883b2/">LinkedIn</a></th>
     <th><a href="https://t.me/kamensky24">Telegram</th>
     <th>89232870027</th>
@@ -36,19 +37,11 @@
   </tr>
     </table>
 
-<h4>Education</h4>
+<h4>Main education</h4>
 <table>
   <tr>
     <td>2023, IT-Incubator, Minsk, Belarus</td>
     <td>Frontend developer</td>
-  </tr>
-    <tr>
-    <td>2013, LLC «Estimate-Service», Krasnoyarsk, Russia</td>
-    <td>Pricing and estimated rationing in construction in modern conditions. Automation of estimated calculations</td>
-  </tr>
-      <tr>
-    <td>2012, Russian Academy of National Economy</td>
-    <td>Innovative project management</td>
   </tr>
         <tr>
     <td>2004-2007 Siberian federal university, Krasnoyarsk, Russia</td>
