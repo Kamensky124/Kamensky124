@@ -30,25 +30,61 @@
     <td><a href="https://www.linkedin.com/in/andrey-kamensky-987883b2/"> Rosneft oil company</a></td>
     <td>2016-2022</td>
   </tr>
+  <tr>
+    <td colspan="3">Optimized the procedure for generating business plan calculations using VBA and excel unification, increasing the collection speed from 1 hour to 20 minutes.
+Prepared technical specifications for changing SAP configuration according to business needs after restructuring
+Timely prepared explanations for shareholders on deviations in management reporting for 2022
+Increased the speed of generating regular management reports for top management through the use of VBA and the unification of excel
+</td>
+   </tr>
     <tr>
-    <td>Various economics positions (construction cost engineering, investment analyst, etc.)</td>
+    <td>Cost-engineering of construction projects </td>
     <td><a href="https://www.krastsvetmet.ru/">JSC «Krastsvetmet»</a></td>
-      <td>2005-2016</td>
+      <td>2013-2016</td>
   </tr>
+  <tr>
+    <td colspan="3">Increased the speed of forming a package of documentation for conducting procedures from 1 week to 3 days
+Optimized the procedure for calculating the cost and detecting errors, which increased the speed of concluding additional agreements and starting construction works from 3 days to 2 days
+Participated in the formation of the terms of reference for the creation of an electronic archive of project documentation in SharePoint
+</td>
+   </tr>
+      <tr>
+    <td>Investment analyst</td>
+    <td>JSC «Krastsvetmet»</td>
+      <td>2012-2013</td>
+  </tr>
+  <tr>
+    <td colspan="3">Optimized the procedure for forming an investment plan, increasing the speed of analytics and presentation prepare for CEOs from 1 month to 2 weeks
+Participated in the formation of the technical part of the new investment project management system, accelerating the implementation of technical tasks from 2 months to 5 weeks
+</td>
+   </tr>
+        <tr>
+    <td>Economist, engineer of energetics</td>
+    <td>JSC «Krastsvetmet»</td>
+      <td>2005-2012</td>
+  </tr>
+  <tr>
+    <td colspan="3">Prepared an economic justification for the introduction of an hourly electricity report system, savings from the introduction of more than 1 million rubles
+Optimized the speed and implemented additional error checking mechanisms in the calculations of the budget and business plan of the energy departments of the enterprise, increasing the speed of data acceptance from 1 week to 3 days
+</td>
+   </tr>
     </table>
 
 <h4>Main education</h4>
 <table>
   <tr>
-    <td>2023, IT-Incubator, Minsk, Belarus</td>
     <td>Frontend developer</td>
+    <td>IT-Incubator, Minsk, Belarus</td>
+    <td>2023</td>
   </tr>
         <tr>
-    <td>2004-2007 Siberian federal university, Krasnoyarsk, Russia</td>
-    <td>Economics and management at an energy enterprise</td>
+    <td>Еconomist – manager (in energetics)</td>
+          <td>Siberian federal university, Krasnoyarsk, Russia</td>
+          <td>2004-2007</td>
   </tr>
     <tr>
-    <td>2000-2005 Siberian federal university, Krasnoyarsk, Russia</td>
-    <td>IT in social systems</td>
+      <td>Сomputer scientist - social psychologist</td>
+    <td>Siberian federal university, Krasnoyarsk, Russia</td>
+      <td>2000-2005</td>
   </tr>
     </table>
