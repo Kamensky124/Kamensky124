@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td>Business analyst</td>
-    <td><a href="https://www.linkedin.com/in/andrey-kamensky-987883b2/"> Rosneft oil company</a></td>
+    <td><a href="https://www.rosneft.com/"> Rosneft oil company</a></td>
     <td>2016-2022</td>
   </tr>
   <tr>
