@@ -26,6 +26,16 @@
 <h4>Experience</h4>
 <table>
   <tr>
+    <td>Frontend developer</td>
+    <td><a href="https://www.upwork.com/"> Freelance</a></td>
+    <td>2023-now</td>
+  </tr>
+  <tr>
+    <td colspan="3">Created projects "ToDo List", "Trailrun E-shop", "Social network clone"
+</td>
+   </tr>
+  
+  <tr>
     <td>Business analyst</td>
     <td><a href="https://www.rosneft.com/"> Rosneft oil company</a></td>
     <td>2016-2022</td>
