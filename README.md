@@ -2,10 +2,10 @@
 <p>I'm glad to see you in my GitHub. Have a nice day!</p>
 <table>
   <tr>
-    <th><a href="https://kamensky124.github.io/AkCV/">CV</a></th>
-    <th><a href="https://www.linkedin.com/in/andrey-kamensky-987883b2/">LinkedIn</a></th>
-    <th><a href="https://t.me/kamensky24">Telegram</th>
-    <th>89232870027</th>
+    <th><a href="https://kamensky124.github.io/AkCV/">MyCV</a></th>
+    <th><a href="https://www.linkedin.com/in/andrey-kamensky-987883b2/"><img src="https://img.icons8.com/color/1x/linkedin-circled.png"></img></a></th>
+    <th><a href="https://t.me/kamensky24"><img src="https://img.icons8.com/color/1x/telegram-app"></img></a></th>
+    <th><a href="https://wa.me/89232870027"><img src="https://img.icons8.com/color/1x/apple-phone.png"></img></a></th>
   </tr>
   </table>
 
