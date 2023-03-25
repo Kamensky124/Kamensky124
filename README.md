@@ -98,3 +98,10 @@ Optimized the speed and implemented additional error checking mechanisms in the 
       <td>2000-2005</td>
   </tr>
     </table>
+    
+I like to implement real projects and increase their efficiency by optimizing work with data and automation. Previously, I improved local accounting systems, including SAP and legacy oracle- and excel-based systems at large enterprises.
+Since November 2022, I have changed my specialization to frontend web development.
+Javascript and its frameworks attract me with its wide application in a variety of industries. So now I'm studying it hard, solving katas on Codewars for the best use of my accumulated experience in business.
+I am looking for a best team or project for frontend development.
+My trail running hobby all year round increase myself productivity. A healthy body makes a healthy spirit :) 
+I have an 8-year-old daughter and love her very much.
