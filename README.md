@@ -31,7 +31,9 @@
     <td>2023-now</td>
   </tr>
   <tr>
-    <td colspan="3">Created projects "ToDo List", "Trailrun E-shop", "Social network clone"
+    <td colspan="3"><p>Created projects:</p>
+      <p><b>Todolists</b> - task manager and to-do list SPA</p>
+      <p><b>Social network clone</b> - SPA that allow users to connect, communicate, share information and form relationships</p>
 </td>
    </tr>
   
@@ -41,10 +43,11 @@
     <td>2016-2022</td>
   </tr>
   <tr>
-    <td colspan="3">Optimized the procedure for generating business plan calculations using VBA and excel unification, increasing the collection speed from 1 hour to 20 minutes.
-Prepared technical specifications for changing SAP configuration according to business needs after restructuring
-Timely prepared explanations for shareholders on deviations in management reporting for 2022
-Increased the speed of generating regular management reports for top management through the use of VBA and the unification of excel
+    <td colspan="3">
+      <p>Optimized the procedure for generating business plan calculations using VBA and excel unification, increasing the collection speed from 1 hour to 20 minutes.</p>
+<p>Prepared technical specifications for changing SAP configuration according to business needs after restructuring</p>
+<p>Timely prepared explanations for shareholders on deviations in management reporting for 2022</p>
+<p>Increased the speed of generating regular management reports for top management through the use of VBA and the unification of excel</p>
 </td>
    </tr>
     <tr>
@@ -53,9 +56,9 @@ Increased the speed of generating regular management reports for top management 
       <td>2013-2016</td>
   </tr>
   <tr>
-    <td colspan="3">Increased the speed of forming a package of documentation for conducting procedures from 1 week to 3 days
-Optimized the procedure for calculating the cost and detecting errors, which increased the speed of concluding additional agreements and starting construction works from 3 days to 2 days
-Participated in the formation of the terms of reference for the creation of an electronic archive of project documentation in SharePoint
+    <td colspan="3"><p>Increased the speed of forming a package of documentation for conducting procedures from 1 week to 3 days</p>
+<p>Optimized the procedure for calculating the cost and detecting errors, which increased the speed of concluding additional agreements and starting construction works from 3 days to 2 days</p>
+<p>Participated in the formation of the terms of reference for the creation of an electronic archive of project documentation in SharePoint</p>
 </td>
    </tr>
       <tr>
@@ -64,8 +67,8 @@ Participated in the formation of the terms of reference for the creation of an e
       <td>2012-2013</td>
   </tr>
   <tr>
-    <td colspan="3">Optimized the procedure for forming an investment plan, increasing the speed of analytics and presentation prepare for CEOs from 1 month to 2 weeks
-Participated in the formation of the technical part of the new investment project management system, accelerating the implementation of technical tasks from 2 months to 5 weeks
+    <td colspan="3"><p>Optimized the procedure for forming an investment plan, increasing the speed of analytics and presentation prepare for CEOs from 1 month to 2 weeks</p>
+<p>Participated in the formation of the technical part of the new investment project management system, accelerating the implementation of technical tasks from 2 months to 5 weeks</p>
 </td>
    </tr>
         <tr>
@@ -74,8 +77,8 @@ Participated in the formation of the technical part of the new investment projec
       <td>2005-2012</td>
   </tr>
   <tr>
-    <td colspan="3">Prepared an economic justification for the introduction of an hourly electricity report system, savings from the introduction of more than 1 million rubles
-Optimized the speed and implemented additional error checking mechanisms in the calculations of the budget and business plan of the energy departments of the enterprise, increasing the speed of data acceptance from 1 week to 3 days
+    <td colspan="3"><p>Prepared an economic justification for the introduction of an hourly electricity report system, savings from the introduction of more than 1 million rubles</p>
+<p>Optimized the speed and implemented additional error checking mechanisms in the calculations of the budget and business plan of the energy departments of the enterprise, increasing the speed of data acceptance from 1 week to 3 days</p>
 </td>
    </tr>
     </table>
@@ -99,9 +102,9 @@ Optimized the speed and implemented additional error checking mechanisms in the 
   </tr>
     </table>
     
-I like to implement real projects and increase their efficiency by optimizing work with data and automation. Previously, I improved local accounting systems, including SAP and legacy oracle- and excel-based systems at large enterprises.
-Since November 2022, I have changed my specialization to frontend web development.
-Javascript and its frameworks attract me with its wide application in a variety of industries. So now I'm studying it hard, solving katas on Codewars for the best use of my accumulated experience in business.
-I am looking for a best team or project for frontend development.
-My trail running hobby all year round increase myself productivity. A healthy body makes a healthy spirit :) 
-I have an 8-year-old daughter and love her very much.
+<p>I like to implement real projects and increase their efficiency by optimizing work with data and automation. Previously, I improved local accounting systems, including SAP and legacy oracle- and excel-based systems at large enterprises.</p>
+<p>Since November 2022, I have changed my specialization to frontend web development.</p>
+<p>Javascript and its frameworks attract me with its wide application in a variety of industries. So now I'm studying it hard, solving katas on Codewars for the best use of my accumulated experience in business.</p>
+<p>I am looking for a best team or project for frontend development.</p>
+<p>My trail running hobby all year round increase myself productivity. A healthy body makes a healthy spirit :) </p>
+<p>I have an 8-year-old daughter and love her very much.</p>
