@@ -26,7 +26,7 @@
 <h4>Experience</h4>
 <table>
   <tr>
-    <td>Frontend developer</td>
+    <td>Analyst-frontend developer</td>
     <td><a href="https://www.upwork.com/"> Freelance</a></td>
     <td>2023-now</td>
   </tr>
