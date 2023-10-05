@@ -1,8 +1,7 @@
-<h4>Hello! I'm Andrey Kamensky, frontend developer.</h4>
+<h4>Hello! I'm Andrey Kamensky, analyst and software developer.</h4>
 <p>I'm glad to see you in my GitHub. Have a nice day!</p>
 <table>
   <tr>
-    <th><a href="https://kamensky124.github.io/AkCV/">MyCV</a></th>
     <th><a href="https://www.linkedin.com/in/andrey-frontend/"><img src="https://img.icons8.com/color/1x/linkedin-circled.png"></img></a></th>
     <th><a href="https://t.me/kamensky24"><img src="https://img.icons8.com/color/1x/telegram-app"></img></a></th>
     <th><a href="https://wa.me/89232870027"><img src="https://img.icons8.com/color/1x/apple-phone.png"></img></a></th>
@@ -11,6 +10,9 @@
 
 <h4>My skills</h4>
 
+![Python]
+![SQL]
+![Excel]
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -28,7 +30,7 @@
   <tr>
     <td>Analyst-developer</td>
     <td><a href="https://www.upwork.com/"> Freelance</a></td>
-    <td>Jan-Nov 2023</td>
+    <td>Jan-Sep 2023</td>
   </tr>
   <tr>
     <td colspan="3"><p>Created projects:</p>
