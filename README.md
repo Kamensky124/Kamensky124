@@ -26,14 +26,13 @@
 <table>
   <tr>
     <td>Analyst-developer</td>
-    <td><a href="https://www.upwork.com/"> Freelance</a></td>
+    <td><a href="https://www.upwork.com/"> Project work</a></td>
     <td>Jan-Sep 2023</td>
   </tr>
   <tr>
     <td colspan="3"><p>Created projects:</p>
-      <p>NDA freelance business projects in stack excel+vba+power query+power pivot</p>
-      <p><b>Todolists</b> - task manager and to-do list SPA</p>
-      <p><b>Social network clone</b> - SPA that allow users to connect, communicate, share information and form relationships</p>
+      <p>NDA business projects in stack google sheets+apps script+ app sheet (excel+vba+power query+power pivot)</p>
+      <p><b>Todolists</b> - task manager and to-do list SPA (React+Redux)</p>
 </td>
    </tr>
   
