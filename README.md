@@ -2,7 +2,7 @@
 <p>I'm glad to see you in my GitHub. Have a nice day!</p>
 <table>
   <tr>
-    <th><a href="https://www.linkedin.com/in/andrey-frontend/"><img src="https://img.icons8.com/color/1x/linkedin-circled.png"></img></a></th>
+    <th><a href="https://www.linkedin.com/in/kamensky124/"><img src="https://img.icons8.com/color/1x/linkedin-circled.png"></img></a></th>
     <th><a href="https://t.me/kamensky24"><img src="https://img.icons8.com/color/1x/telegram-app"></img></a></th>
     <th><a href="https://wa.me/995596620003"><img src="https://img.icons8.com/color/1x/apple-phone.png"></img></a></th>
   </tr>
@@ -29,6 +29,13 @@
     <td><a href="https://www.upwork.com/"> Project work</a></td>
     <td>Jan 2023-today</td>
   </tr>
+    <tr>
+    <td colspan="3">
+      <p>Business automation projects for small businesses, including</p>
+<p>Startup project development: Contributing to the backend development and Google Apps Script functionality of startup projects, helping them streamline operations and enhance efficiency.</p>
+      <p>Technical support: Providing technical assistance to small businesses in setting up, maintaining, and troubleshooting their automated systems. Writed GAS backend for marketplace API for everyday controlled indicators for 4 sellers</p>
+</td>
+   </tr>
   <tr>
     <td>Business analyst</td>
     <td><a href="https://www.rosneft.com/"> Rosneft oil company</a></td>
@@ -94,9 +101,12 @@
   </tr>
     </table>
     
-<p>I like to implement real projects and increase their efficiency by optimizing work with data and automation. Previously, I improved local accounting systems, including SAP and legacy oracle- and excel-based systems at large enterprises.</p>
-<p>Since November 2022, I have changed my specialization to frontend web development.</p>
-<p>Javascript and its frameworks attract me with its wide application in a variety of industries. So now I'm studying it hard, solving katas on Codewars for the best use of my accumulated experience in business.</p>
-<p>I am looking for a best team or project for frontend development.</p>
-<p>My trail running hobby all year round increase myself productivity. A healthy body makes a healthy spirit :) </p>
-<p>I have an 8-year-old daughter and love her very much.</p>
+<p>I'm passionate about making a real impact on projects by streamlining data workflows and automation.  In my previous role, I focused on optimizing local accounting systems, including complex solutions like SAP and legacy Oracle & Excel setups for large enterprises.</p>
+
+<p>Since November 2022, I've transitioned my focus to frontend web development. The versatility and vast industry applications of JavaScript and its frameworks truly excite me.  Leveraging my extensive business experience, I'm actively honing my JavaScript skills by tackling Codewars katas.</p>
+
+<p>I'm eager to join a fantastic team or contribute to a project where I can leverage my frontend development expertise. </p>
+
+<p>(On a personal note) Trail running is my year-round passion, keeping me productive and energized. After all, a healthy body leads to a healthy mind! :)</p>
+
+<p>I'm also a proud parent to an amazing daughter.</p>
