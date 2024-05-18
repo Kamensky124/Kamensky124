@@ -1,10 +1,10 @@
-<h4>Hello! I'm Andrey Kamensky, analyst and software developer.</h4>
+<h4>Hello! I'm Andrey Kamensky, software developer.</h4>
 <p>I'm glad to see you in my GitHub. Have a nice day!</p>
 <table>
   <tr>
     <th><a href="https://www.linkedin.com/in/andrey-frontend/"><img src="https://img.icons8.com/color/1x/linkedin-circled.png"></img></a></th>
     <th><a href="https://t.me/kamensky24"><img src="https://img.icons8.com/color/1x/telegram-app"></img></a></th>
-    <th><a href="https://wa.me/89232870027"><img src="https://img.icons8.com/color/1x/apple-phone.png"></img></a></th>
+    <th><a href="https://wa.me/995596620003"><img src="https://img.icons8.com/color/1x/apple-phone.png"></img></a></th>
   </tr>
   </table>
 
@@ -25,17 +25,10 @@
 <h4>Experience</h4>
 <table>
   <tr>
-    <td>Analyst-developer</td>
+    <td>Software developer</td>
     <td><a href="https://www.upwork.com/"> Project work</a></td>
-    <td>Jan-Sep 2023</td>
+    <td>Jan 2023-today</td>
   </tr>
-  <tr>
-    <td colspan="3"><p>Created projects:</p>
-      <p>NDA business projects in stack google sheets+apps script+ app sheet (excel+vba+power query+power pivot)</p>
-      <p><b>Todolists</b> - task manager and to-do list SPA (React+Redux)</p>
-</td>
-   </tr>
-  
   <tr>
     <td>Business analyst</td>
     <td><a href="https://www.rosneft.com/"> Rosneft oil company</a></td>
