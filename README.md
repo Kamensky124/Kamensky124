@@ -32,7 +32,7 @@
     <tr>
     <td colspan="3">
       <p>Business automation projects for small businesses, including</p>
-<p>Startup project development: Contributing to the backend development and Google Apps Script functionality of startup projects, helping them streamline operations and enhance efficiency.</p>
+<p>Startup project development: Contributing to the javascript backend development, Google Apps Script, AppSheet  functionality of startup projects, helping them streamline operations and enhance efficiency.</p>
       <p>Technical support: Providing technical assistance to small businesses in setting up, maintaining, and troubleshooting their automated systems. Writed GAS backend for marketplace API for everyday controlled indicators for 4 sellers</p>
 </td>
    </tr>
