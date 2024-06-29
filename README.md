@@ -26,12 +26,13 @@
 <table>
   <tr>
     <td>Software developer</td>
-    <td><a href="https://www.upwork.com/](https://flowmedium.pro/">Software developer</a></td>
+    <td><a href="https://flowmedium.pro/">FlowMedium</a></td>
     <td>Feb 2024-today</td>
   </tr>
     <tr>
     <td colspan="3">
-      <p>Skilled in configuring and maintaining AppSheet applications to meet client requirements, providing technical support and engaging clients, developing backend systems using Express.js, MongoDB, Yandex/Google APIs and SFTP streaming to handle complex data processing and release management.</p> 
+<p>Configuration and maintenance of AppSheet applications to meet client requirements, providing technical support and engaging clients.</p> 
+      <p>Development of backend systems using Express.js, MongoDB, Yandex/Google APIs and SFTP streaming to handle complex data processing and release management.</p> 
       <p>Automated publication workflows including generating DDEX XML files, demonstrating expertise in application development, client engagement, backend engineering, and process optimization.</p>
 </td>
    </tr>
